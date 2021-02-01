@@ -4,17 +4,15 @@
   </a>
 </p>
 <h1 align="center">
-  I / O Briefs
+  ⚙ I / O Briefs
 </h1>
 
 <p align="center">
-  <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
-    <img src="https://img.shields.io/badge/license-0BSD-blue.svg" alt="Minimal Blog is released under the 0BSD license." />
-  </a>
+  <img alt="GitHub" src="https://img.shields.io/github/license/tamojit-123/io-briefs">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
-    <img src="https://img.shields.io/twitter/follow/lekoarts_de.svg?label=Follow%20@lekoarts_de" alt="Follow @lekoarts_de" />
-  </a>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/tamojit-123?style=social">
+  <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/tamojit-123?style=social">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/tamojitdas97?style=social">
 </p>
 
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog).
