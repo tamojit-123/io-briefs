@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://iobriefs.netlify.app/">
-    ⚙ I / O Briefs
-  </a>
-</p>
 <h1 align="center">
   ⚙ I / O Briefs
 </h1>
