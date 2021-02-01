@@ -17,7 +17,12 @@
 
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/master/themes/gatsby-theme-minimal-blog).
 
-[**Demo Website**](https://minimal-blog.lekoarts.de)
+[**Demo Website**](https://iobriefs.netlify.app/)
+
+Themes:
+
+![Screenshot 2021-02-01 151856](https://user-images.githubusercontent.com/40804626/106442407-3fede680-64a1-11eb-9526-be1f166b6e00.png)
+![Screenshot 2021-02-01 151921](https://user-images.githubusercontent.com/40804626/106442410-411f1380-64a1-11eb-829f-49b12e6bbd7a.png)
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
@@ -40,7 +45,7 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 
 Use the Gatsby CLI to create a new site, specifying this project
 
-```sh
+```BASH
 gatsby new project-name https://github.com/LekoArts/gatsby-starter-minimal-blog
 ```
 
@@ -48,7 +53,7 @@ gatsby new project-name https://github.com/LekoArts/gatsby-starter-minimal-blog
 
 Navigate into your new site's directory and start it up.
 
-```sh
+```BASH
 cd project-name
 gatsby develop
 ```
@@ -75,35 +80,31 @@ Since the underlying theme ships with [prism-react-renderer](https://github.com/
 
 When you add a language (such as e.g. `js` or `javascript`) to the code block, a little tab will appear at the top left corner.
 
-````
+
 ```js
 // code goes here
 ```
-````
 
 **Code titles:**
 
 You can display a title (e.g. the file path) above the code block.
 
-````
+
 ```jsx:title=your-title
 // code goes here
 ```
-````
 
 Or without a specific language:
 
-````
 ```:title=your-title
 // code goes here
 ```
-````
+
 
 **Line highlighting:**
 
 You can highlight single or multiple (or both) lines in a code block. You need to add a language.
 
-````
 ```js {2,4-5}
 const test = 3
 const foo = 'bar'
@@ -111,30 +112,27 @@ const harry = 'potter'
 const hermione = 'granger'
 const ron = 'weasley'
 ```
-````
+
 
 **Hide line numbers:**
 
 If you want to hide line numbers you can either globally disable them (see Theme options) or on a block-by-block basis. You can also combine that with the other attributes.
 
-````
 ```noLineNumbers
 // code goes here
 ```
-````
 
 **react-live:**
 
 Add `react-live` to the code block (and render the component) to see a preview below it.
 
-````
+
 ```js react-live
 const onClick = () => {
   alert("You opened me");
 };
 render(<button onClick={onClick}>Alohomora!</button>);
 ```
-````
 
 ### Adding content
 
