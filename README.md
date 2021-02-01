@@ -2,6 +2,11 @@
   ⚙ I / O Briefs
 </h1>
 
+⚙ I / O Briefs is the trusted "Blog" | platform for education, learning, access various contents like code etc. where we all can raise questions and issues and resolves many anomalies that we face in our daily life or came across various problems as a developer. This blogpage is develop by Tamojit, I / O Briefs is home to students, developers and learners. I / O Briefs provides traditional tech blogs, removing the barriers of problems and anomalies. Fulfill the demands for students and developers to learn and resolve problems on their own.
+
+"Supporting developers at every stage. Deliver guides for curious minds ✌."
+-Tamojit Das
+
 <p align="center">
   <img alt="GitHub" src="https://img.shields.io/github/license/tamojit-123/io-briefs">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
