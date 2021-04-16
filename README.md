@@ -21,9 +21,9 @@ Typography driven, feature-rich blogging theme with minimal aesthetics. Includes
 
 Themes:
 
-![Screenshot 2021-02-01 151856](https://user-images.githubusercontent.com/40804626/106442407-3fede680-64a1-11eb-9526-be1f166b6e00.png)
+![Screenshot 2021-04-16 113925](https://user-images.githubusercontent.com/40804626/114979495-98c9fa00-9ea8-11eb-83c3-a1474cf92c01.png)
 #
-![Screenshot 2021-02-01 151921](https://user-images.githubusercontent.com/40804626/106442410-411f1380-64a1-11eb-829f-49b12e6bbd7a.png)
+![Screenshot 2021-04-16 113954](https://user-images.githubusercontent.com/40804626/114979522-a3848f00-9ea8-11eb-9b08-f2ae78528c93.png)
 
 Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
