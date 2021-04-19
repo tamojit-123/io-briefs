@@ -25,7 +25,6 @@ Themes:
 #
 ![Screenshot 2021-04-16 113954](https://user-images.githubusercontent.com/40804626/114979522-a3848f00-9ea8-11eb-9b08-f2ae78528c93.png)
 
-Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de)
 
 ## ✨ Features
 
