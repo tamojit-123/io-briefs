@@ -19,7 +19,7 @@ Typography driven, feature-rich blogging theme with minimal aesthetics. Includes
 
 [**Demo Website**](https://iobriefs.netlify.app/)
 
-Themes:
+## 🌈Themes:
 
 ![Screenshot 2021-04-16 113925](https://user-images.githubusercontent.com/40804626/114979495-98c9fa00-9ea8-11eb-83c3-a1474cf92c01.png)
 #
