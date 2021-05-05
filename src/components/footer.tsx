@@ -28,7 +28,7 @@ const Footer = () => {
           aria-label="Link to GitHub"
           href="https://github.com/tamojit-123"
         >
-          Develop
+          Blog
         </Link>
         {` `}
         by
